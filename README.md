@@ -35,15 +35,28 @@ Una app en Python capaz de encriptar y desencriptar texto e imágenes con facili
 - Máquina Enigma (en desarrollo)
 - Imagen (Esteganografía)
 
+# Librerias:
+- tkinter
+- - ttk, filedialog, messagebox
+- base64
+- random
+- os
+- PIL
+- - Image, ImageTk
+
 # Información extra
-- Versión: 2.3 (pública)
-- Expansible: sí, pero no muy fácil
-- Icono: no
-- Archivos disponibles para subir: .png, .jpg, .jpeg, .txt
-- Fallos gráficos: algunos
-- Notas dentro del código: Sí, algunas
+- Versión: 2.3 (pública).
+- Expansible: sí, pero no muy fácil.
+- Icono: no.
+- Archivos disponibles para subir: .png, .jpg, .jpeg, .txt.
+- Fallos gráficos: algunos.
+- Notas dentro del código: Sí, algunas pocas.
+- Creado desde Linux.
+- No interfiere con nada del ordenador.
+- No admite texto en formato Markdown.
 - Contacto: danieldiaz.dx3@gmail.com
 
 ### Gracias por la visita :)
 ---
 Pensando en la nueva versión del programa.
+Es un poco lento porque esta todo en el mimso archivo, pero funciona bien.
