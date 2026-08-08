@@ -54,6 +54,7 @@ Una app en Python capaz de encriptar y desencriptar texto e imágenes con facili
 - Creado desde Linux.
 - No interfiere con nada del ordenador.
 - No admite texto en formato Markdown.
+- Para fedora hay que usar venv si o si.
 - Contacto: danieldiaz.dx3@gmail.com
 
 ### Gracias por la visita :)
